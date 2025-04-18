@@ -15,9 +15,7 @@ A sleek, responsive weather application that provides real-time weather data for
 
 - HTML5, CSS3, JavaScript (ES6+)
 - [OpenWeatherMap API](https://openweathermap.org/) for weather data
-- Geolocation API for detecting user's location
-- Webpack (if applicable)
-- (Add any other technologies you've used)
+- Nodejs,Expressjs
 
 ## Installation & Setup 💻
 
